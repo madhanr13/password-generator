@@ -1,6 +1,6 @@
 # Password Generator
 
-**A simple and secure password generator built with React and Vite.**
+**A simple and secure password generator built with React and Tailwind Css.**
 
 ## Project Overview
 This is a simple password generator application built using React and Vite. The application allows users to generate secure passwords with customizable options such as length, inclusion of uppercase letters, lowercase letters, numbers, and special characters.
